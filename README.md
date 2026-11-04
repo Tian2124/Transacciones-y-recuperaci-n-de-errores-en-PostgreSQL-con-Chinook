@@ -1,0 +1,1 @@
+# Transacciones-y-recuperaci-n-de-errores-en-PostgreSQL-con-Chinook
